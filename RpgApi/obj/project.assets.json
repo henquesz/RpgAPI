@@ -5666,11 +5666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etechas\\Downloads\\Teste\\RpgApi\\RpgApi\\RpgApi.csproj",
+      "projectUniqueName": "C:\\Users\\etechas\\Documents\\arquivoPAM\\RpgApi\\RpgApi.csproj",
       "projectName": "RpgApi",
-      "projectPath": "C:\\Users\\etechas\\Downloads\\Teste\\RpgApi\\RpgApi\\RpgApi.csproj",
+      "projectPath": "C:\\Users\\etechas\\Documents\\arquivoPAM\\RpgApi\\RpgApi.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etechas\\Downloads\\Teste\\RpgApi\\RpgApi\\obj\\",
+      "outputPath": "C:\\Users\\etechas\\Documents\\arquivoPAM\\RpgApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
