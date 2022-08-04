@@ -1,0 +1,24 @@
+{
+
+  "ConfiguracaoToken":{
+    "Chave" : "minha chave super secreta"  
+  },
+
+  "ConnectionStrings": {
+    "ConexaoFreeAspHosting": "STRING DE CONEXÃO AQUI"
+    ,"ConexaoLocal": "server=localhost,1433;database=DB-DS-LUIZSOUZA;User ID=sa;Password=*123456*"
+    
+    
+
+    
+  },
+
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
